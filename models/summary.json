@@ -1,0 +1,18 @@
+{
+  "n_songs": 26229,
+  "k": 6,
+  "cluster_names": {
+    "0": "C0: high valence & low speechiness",
+    "1": "C1: low danceability & high energy",
+    "2": "C2: high instrumentalness & high energy",
+    "3": "C3: low energy & low loudness",
+    "4": "C4: high tempo & high speechiness",
+    "5": "C5: high speechiness & high danceability"
+  },
+  "genre_precision_at_10": {
+    "audio only (full catalogue)": 0.3836,
+    "cluster-restricted": 0.3802,
+    "cluster + same genre": 1.0,
+    "random": 0.1701
+  }
+}
